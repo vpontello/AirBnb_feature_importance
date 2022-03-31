@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+*.gz
+=======
+# ignore archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.csv.gz
+*.gz
+
+# ignore dataset folder and subfolders
+datasets/
+>>>>>>> f02a6a5 (another try with the gitignore file)
