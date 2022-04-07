@@ -164,3 +164,17 @@ For each city the data collected are:
     * reviewer_name
     * comments
 
+## ETL
+
+### calendar data
+
+### listings data
+
+### reviews data
+
+## Data Preparation
+
+## Modelling
+
+## Results
+
