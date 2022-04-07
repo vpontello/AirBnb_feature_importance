@@ -28,31 +28,31 @@ The data which is used in this project is the AirBnb data from the following cit
 
 To perform the analysis further information about the number of tourists of those cities gathered from [this article](https://finance.yahoo.com/news/30-most-visited-cities-u-145000465.html).<br>
 
-|#|City, State, Country |Foreign tourists in 2019|US Ranking of most visited cities
+|#|City, State, Country |Foreign tourists in 2019| Population
 --|--| -- | -- 
-1|Asheville, North Carolina, United States|<100.000|>30
-2|Austin, Texas, United States|<200.000|>30
-3|Boston, Massachusetts, United States|1.567.000|9
-4|Chicago, Illinois, United States|1.491.000|10
-5|Columbus, Ohio, United States| <200.000 | >30
-6|Denver, Colorado, United States | 331.000 |26
-7|Fort Lauderdale, Florida, United States | 982.000 | 11
-8|Jersey City, New Jersey, United States | <200.000 | >30
-9|Las Vegas, Nevada, united States | 2.989.000 | 6
-10|Los Angeles, California, United States|4.645.000|3
-11|Minneapolis, Minnesota, united States | <200.000 | >30
-12|Nashville, Tennessee, United States|<200.000|>30
-13|New Orleans, Louisiana, United States|436.000|23
-14|New York City, New York, United States | 10.288.000 | 1
-15|Newark, New Jersey, United States | <200.000 | >30
-16|Oakland, California, United States | <200.000 | >30
-17|Portland, Oregon, United States | <200.000 | >30
-18|Rhode Island, Rhode Island, United States | <200.000 | >30
-19|Salem, Oregon, United States | <200.000 | >30
-20|San Diego, California, United States | 881.000 | 12
-21|San Francisco, California, United States|3.308.000|5
-22|Seattle, Washington, United States|844.000|14
-23|Washington, D.C., District of Columbia, United States | 1.907.000 | 8
+1|Asheville, North Carolina, United States|<100.000| 91560
+2|Austin, Texas, United States|<200.000| 950807
+3|Boston, Massachusetts, United States|1.567.000|684379
+4|Chicago, Illinois, United States|1.491.000| 2710000
+5|Columbus, Ohio, United States| <200.000 | 878553
+6|Denver, Colorado, United States | 331.000 |705576
+7|Fort Lauderdale, Florida, United States | 982.000 | 180124
+8|Jersey City, New Jersey, United States | <200.000 | 261940
+9|Las Vegas, Nevada, united States | 2.989.000 | 634773
+10|Los Angeles, California, United States|4.645.000|3967000
+11|Minneapolis, Minnesota, united States | <200.000 | 420324
+12|Nashville, Tennessee, United States|<200.000|692587
+13|New Orleans, Louisiana, United States|436.000| 390845
+14|New York City, New York, United States | 10.288.000 | 8419000
+15|Newark, New Jersey, United States | <200.000 | 281054
+16|Oakland, California, United States | <200.000 | 425097
+17|Portland, Oregon, United States | <200.000 | 645291
+18|Rhode Island, Rhode Island, United States | <200.000 | 180972
+19|Salem, Oregon, United States | <200.000 | 169259
+20|San Diego, California, United States | 881.000 | 1410000
+21|San Francisco, California, United States|3.308.000| 874961
+22|Seattle, Washington, United States|844.000| 724305
+23|Washington, D.C., District of Columbia, United States | 1.907.000 | 692683
 
 
 For each city the data collected are:
