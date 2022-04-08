@@ -1,27 +1,22 @@
 # AirBnb Feature Importance Project
 
-This project is the first in Udacity's Data Science Nanodegree curriculum. Its development was done using a repository on GitHub and the knowledge resulting from the project was reported through an article on Medium, which can be read [here](link_to_article). <br>
+This project is the first in Udacity's Data Science Nanodegree curriculum. Its development was done using a repository on GitHub and the knowledge resulting from the project was reported through an article on Medium, which can be read [here](https://medium.com/@ing.victorpontello/this-is-why-some-accommodations-stand-out-on-airbnb-853b80e945aa). <br>
 
 The main objectives of this project are to train and develop communication skills with stakeholders, both technical and business ones. Therefore, for a technical audience the GitHub repository with proper documentation is the best way to communicate. For the more business-oriented audience, communication occurs through a descriptive article about what was done using the Medium platform.
 
 ## Motivation
 
-Traveling to a nice touristic cosmopolitan city is different to travel to a small city or to a not so turistic one. Thats clear in our minds and there is no doubt about it. But could we tell the most important characteristics of an AirBnb acomodation that differ between the most visited cities and the not so visited ones. <br>
+Traveling awesome, and there is no shortage of possibilities on AirBnb, but how do you choose the right accommodation? What is the real difference between a 4.5 and a 5.0 accommodation? If I have an ad on AirBnb, what are the main points I should invest in to stand out from the other ads?. <br>
 
 With that said, the main motivation of the project is translated into the following research questions:
 
-### Research Questions
-1. Which are the 10 most important characteristics to differentiate the touristic cities and the not touristic ones?
-2. How does each of the 10 most important characteristics behaves in each touristic context of the cities where they are.
-3. How would be the most likely description of a acomodation in a city like NYC based on the findings of this study?
-4. How would be the most likely description of a acomodation in a small city like Salem, Oregon based on the findings of this study?
-
 ## Business Understanding
 
-### Research questions
-* Which are the most relevant characteristics of an accomodation to define the number of 
-* How is the relation of the tourism appeal of the city and the renting characteristics?
-* How does the geographical regions relates to the characteristics of the offered accomodation on AirBnb?
+### Research Questions
+1. Which are the 10 most important characteristics to influence the overall review of an acomodation?
+2. What are the general differences between a top rated acomodation and a almost top one?
+3. Which are the main review aspects that influences the overall review score?
+4. How would be the most likely description of a acomodation in a small city like Salem, Oregon based on the findings of this study?
 
 ### Data Collection
 The data which is used in this project is the AirBnb data from the following cities, and collected through this [link](http://insideairbnb.com/get-the-data.html).<br>
@@ -164,17 +159,10 @@ For each city the data collected are:
     * reviewer_name
     * comments
 
-## ETL
+## How to explore
 
-### calendar data
+The project is divided in two notebooks, the first one is the **DataScience_Post.ipynb**, which was used for the data exploration and creation of the first prototypes.<br>
 
-### listings data
+However the main notebook is ProductionNotebook_AirBnb_feature_importance.ipynb, where the main methods are declared, and where the final project models were deployed.
 
-### reviews data
-
-## Data Preparation
-
-## Modelling
-
-## Results
-
+The datasets are not versioned because of lack os storage capacity from GitHub, and the *images* directory contains some results' plots. 
