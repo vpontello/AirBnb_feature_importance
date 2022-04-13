@@ -171,6 +171,7 @@ For each city the data collected are:
 * **decimal**: for decimal numeric handling
 * **seaborn**: for data visualization
 * **matplotlib**: for data visualization
+* **dataframe_image**: to convert the dataframe html output to an image
 * **nltk**: for NLP sentiment analysis
 * **tqdm**: for showing the loops progress while running them
 * **sklearn**: for standardizing data, train test split, cross validation, and R2 score evaluation
